@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @hanisafi77
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+hanisafi77/hanisafi77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+console.log('Hio Hani How are you');
+console.log('Dad');
+console.log('تكللت ولله الحمد بالنجاح .. أتقدم بجزيل ');
